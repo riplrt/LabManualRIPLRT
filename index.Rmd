@@ -1,0 +1,34 @@
+--- 
+title: "Lab Manual for the RIPL_Effect Research Team (RIPLRT)"
+author: "Authors: The RIPL_Effect Research Team"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This book constitute the lab manual for the RIPL_Effect Research Team (RIPLRT). The output format for this example is bookdown::gitbook."
+---
+
+# Welcome! {-}
+It looks like you recently joined the [RIPL (Respiratory and Immunology Project) Effect Research Lab](https://www.riplrt.com) at Larkin University College of Biomedical Sciences. That’s great! We’re really glad to have you here, and will do what we can to make your time in the lab amazing. We hope you’ll learn a lot about respiratory health and immunology (also population health), develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
+ 
+This lab manual was inspired by several others, and borrows heavily from them (e.g. the [Aly Lab Manual](https://github.com/alylab/labmanual))(1). It’s also a work in progress. If you have ideas about things to add, or what to clarify, talk to me (Dr. Felix Rivera-Mariani, the PI), or the lab manager.
+ 
+When you join the lab, you’re expected to read this manual and sign a form indicating that you
+have done so. This signing form is found in our team drive. 
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+```{r}
+bookdown::publish_book(name = NULL, account = NULL, server = NULL, 
+  render = c("none", "local", "server"))
+```
+
+
