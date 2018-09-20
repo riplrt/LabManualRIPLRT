@@ -26,9 +26,3 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 
-```{r}
-bookdown::publish_book(name = NULL, account = NULL, server = NULL, 
-  render = c("none", "local", "server"))
-```
-
-
