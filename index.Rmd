@@ -26,3 +26,8 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 
+```{r include=FALSE}
+publish_book(name = NULL, account = NULL, server = NULL, 
+  render = c("none", "local", "server"))
+```
+
