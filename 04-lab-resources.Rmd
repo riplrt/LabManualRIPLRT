@@ -1,1 +1,30 @@
 # Lab Resources
+
+Website: 
+Our group has a motherboard known as our website (www.riplrt.com). Here you will find oodles of past, current, and future information regarding the group. You can also follow RIPLRT’s updates and blogs here.
+
+## Wiki:
+The lab has a wiki page (http://wiki.riplrt.com/), where we share the library of resources and information we employ in our daily endeavors in the RIPLRT.
+
+## Slack: 
+Our lab communicates through slack on a daily basis (including the weekends). Our work space is riplrt.slack.com. We have seperate channels with different themes about ongoing topics in the lab. We are able to share information, documents, and pictures through slack. 
+
+## Google account:
+Gmail: We have a riplrt email domain: username@riplrt.com. All emails should be communicated through this email domain
+Google drive: there is a riplrt drive (https://drive.riplrt.com) that will contain all documents shared intra-lab only, including collaborations 
+Google calendar: invites to events and meetings are sent through calendar  
+ 
+## GoToMeeting: 
+Our group meets via GoToMeeting every Monday at 10AM (EST). Some members are not stationed locally and others opt to work from home and this is usually our mode of communication. 
+
+## Rspace: 
+Our lab uses Rspace (https://community.researchspace.com/login) for our electronic lab records. Each member who has worked in the lab is required to write up the lab in their assigned, hard copy notebook then record the lab again on Rspace.
+
+## GitHub:
+GitHub is a way to share codes (also data) to people outside of our lab. Coding is used throughout our research projects, everyday analysis and website. Our github repository is https://www..github.com/riplrt. 
+ 
+## PubCrawler: 
+Keeping up with science, including in topics related to the RIPLRT reserach mission, sometimes is challenging. We use PubCrawler (http://pubcrawler.gen.tcd.ie/) to help narrow the difficulties of being up-to-date with scientific findings. Make sure to create an account with PubCrawler and review the weekly hits PubCrawler will send you as they relate to topic of the RIPLRT’s research mission. 
+
+## FigShare and Zenodo:
+FigShare (https://figshare.com/) and Zenodo (https://zenodo.org/) are two of the platforms we employ to contribute to the Open Science movement and the efforts to make reproducible science available to the public, including the scientific community. Make sure to create an account and ask Dr. Rivera-Mariani to invite you into the RIPLRT workspaces within these platforms. 
