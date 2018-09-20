@@ -1,1 +1,25 @@
 # Expectations and Responsabilities
+
+The core values of the RIPLRT are 
+
+- Inclusiveness (everyone’s voice count)
+- Multi-disciplinary focus (integrate different disciplines into our reach goals)
+- Diversity (value and respect differences in perspectives and opinions)
+- Integrity (follow strict institutional, scientific, and ethical guidelines)
+- Productivity (input our highest efforts to reach our goals)
+- Innovation (remain open-minded, and will learn from both successes and failures)
+- Excellence (target the highest quality of scientific research)
+- Collaboration (what is done in isolation is often accomplished better in partnership)
+- Leadership (nourish from a culture of intra and inter-motivation and inspiration)
+
+We feel that these values are vital to success in science, and it is important that every member of the RIPL research team strive to fulfill them at all times.
+
+It is also important to maintain a healthy work environment. Any petty actions or drama that hinder our efforts will not be tolerated and is grounds for dismissal from the team.
+
+It is expected that every member 
+
+- Maintain a passion for science that carries you forward. Science is very rewarding, but also very challenging. By keeping your scientific goals in mind, it is possible to stay motivated in the challenging times.
+- Be efficient but do not rush. Rushing leads to mistakes and issues further down the line. It is important to always know exactly what you are doing before you do it. Plan out experiments ahead of time and, like you have learned in the BCA assay (which everyone in RIPLRT has to go through), always be prepared.
+- Mistakes may happen and can be corrected, but only if you own up to them. Never be hide a mistake as that will lead to future problems down the line. 
+- Never be too proud to ask for help. We are not competing with each other, we are a team and will help each other whenever possible. Pride has no place in the research field. 
+- Work honestly. Never plagiarize work, tamper with data, or omit anything. A “bad” result is still a result: negative results also have the potential to be published. This seems an appropriate time to mention that most of these expectations stem from the [Aly Lab Manual](https://github.com/alylab/labmanual)(1).  
