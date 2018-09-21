@@ -1,24 +1,27 @@
 # Code of Conduct and Scientific Ethics 
 
 ## Essential Policies
-Larkin University’s core values include but aren’t limited to; an inclusive learning community, acceptance and embracement of diverse cultures and perspectives, civility, integrity, and trustworthiness. All lab members are expected to abide by and practice these values, in and out of the lab.
+Larkin University’s core values include but aren’t limited to; an inclusive learning community, acceptance and embracement of diverse cultures and perspectives, civility, integrity, and trustworthiness. All lab members are expected to abide by and practice these values, in and out of the RIPLRT lab.
 
-The lab is committed to ensuring a safe, friendly, and accepting environment for everybody. We will not tolerate any verbal or physical harassment or discrimination. 
+The RIPLRT lab is committed to ensuring a safe, friendly, and accepting environment for everybody. We will not tolerate any verbal or physical harassment or discrimination. 
 
-*Safety is always first*: all safety guidelines must be strictly implemented by all lab members. 
+*Safety is always first*: all safety guidelines as they pertain to Larkin University and those listed in this lab manual will be strictly implemented by all lab members. 
 
 ## Dress Code
-Avoid at all cost going to lab in shorts, shirts without sleeves, with opened shoes, and without the lab coat. Safety is always first. 
+Avoid at all cost going to lab in shorts, shirts without sleeves, with opened shoes, and without the lab coat. If you have long hair, make sure to pick you hair up in the lab. Safety is always first. 
+
+## Allergies or any Health Issue
+If you are allergic to something...anything, please make sure to let Dr. Rivera-Mariani know. If you are experiencing any health situation, also let Dr. Rivera-Mariani know. Your health is first!
 
 ## Taking Photos and Videos
-The privacy of all lab members must be respected at all times. Taking photos or videos of other lab members is only allowed once consent has been obtained from the other party prior to the picture or video being taken. Before imagery is posted on Social Media, it must be approved by the PI, Dr. Felix Rivera-Mariani. At no point in time should photos or videos be taken of the human volunteers contributing to our projects: that would be a violation of strict guidelines by the Institutional Review Board.
+The privacy of all lab members must be respected at all times. Taking photos or videos of other lab members is only allowed once consent has been obtained from the other party prior to the picture or video being taken. Before imagery is posted on Social Media or any other forum, it must be approved by the PI, Dr. Felix Rivera-Mariani. At no point in time should photos or videos be taken of the human volunteers contributing to our projects: that would be a violation of strict guidelines of the Institutional Review Board (see below under Scientific Integrity). Note that serious consequences could result for not following this privacy guidelines.
 
 ## Scientific Integrity
-The lab, and Larkin University, have a great appreciation for scientific achievements and support a passion for innovation and curiosity, however we do not tolerate research misconduct. All members must read the Academic Dishonesty Policy in the Student Handbook (http://ularkin.org/wp-content/uploads/2017/08/Biomedical-Sciences-Student-Handbook.pdf ) and understand that plagiarism, fabrication and falsification will not be tolerated. 
+The lab, and Larkin University, have a great appreciation for scientific achievements and support a passion for innovation and curiosity; however, there is no spaces within the RIPLRT for scientific research misconduct. All members must read the Academic Dishonesty Policy in the Student Handbook (http://ularkin.org/wp-content/uploads/2017/08/Biomedical-Sciences-Student-Handbook.pdf) and understand that plagiarism, fabrication and falsification will not be tolerated. 
 
-All data that results from experiments performed in the lab must be reproducible and is an expectation of all projects. In order to ensure all experiments are reproducible, everyone must accurately document all of their steps in their physical lab notebook and in R Space. Some lab members, such as Research assistants. will also be expected to know how to work with Github and other Open-Science platforms.
+All data that results from experiments performed in the lab must be reproducible and is an expectation of all projects. In order to ensure all experiments are reproducible, everyone must accurately document all of their steps in their physical lab notebook and in RSpace. Some lab members, such as Research assistants. will also be expected to know how to work with Github and other Open-Science platforms.
 
-All lab members must abide by the IRB protocols  associated with each experiment. If you are not on the IRB you cannot run experiments involving human subjects (including tissues, raw data, etc.), look at or analyze the data, or be in any way involved with projects in which human  (pg9). Completion of “Working Safely with HIV and Other Bloodborne Pathogens” and “Protecting Human Research Participants” training provided by NIH is or CITI program is required by all members of the RIPLRT.
+All lab members must abide by the IRB (Institutional Review Board) protocols associated with each project involving human subjects. If you have been assigned to work in a project involving human subjects, make sure Dr. Rivera-Mariani has added you to the corresponding approved IRB protocol, otherwise you cannot run experiments involving human subjects (including tissues, raw data, etc.), look at or analyze the data, or be in any way involved with projects in which human. In order for you to be included in an IRB protocol, you must complete the  “Working Safely with HIV and Other Bloodborne Pathogens” and “Protecting Human Research Participants” training provided by NIH is or CITI program is required by all members of the RIPLRT.
 
 ## Authorship
-The RIPLRT will follow the guidelines of the [International Committee of Medical Journal Editors](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) to award authorship, including order of authors within any RIPLRT publication. 
+The RIPLRT will strictly follow the guidelines established by the [International Committee of Medical Journal Editors](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) to award authorship, including order of authors within any RIPLRT publication. 
