@@ -1,9 +1,11 @@
-# Code of Conduct
+# Code of Conduct and Scientific Ethics 
 
 ## Essential Policies
 Larkin University’s core values include but aren’t limited to; an inclusive learning community, acceptance and embracement of diverse cultures and perspectives, civility, integrity, and trustworthiness. All lab members are expected to abide by and practice these values, in and out of the lab.
 
 The lab is committed to ensuring a safe, friendly, and accepting environment for everybody. We will not tolerate any verbal or physical harassment or discrimination. 
+
+*Safety is always first*: all safety guidelines must be strictly implemented by all lab members. 
 
 ## Dress Code
 Avoid at all cost going to lab in shorts, shirts without sleeves, with opened shoes, and without the lab coat. Safety is always first. 
@@ -14,6 +16,6 @@ The privacy of all lab members must be respected at all times. Taking photos or 
 ## Scientific Integrity
 The lab, and Larkin University, have a great appreciation for scientific achievements and support a passion for innovation and curiosity, however we do not tolerate research misconduct. All members must read the Academic Dishonesty Policy in the Student Handbook (http://ularkin.org/wp-content/uploads/2017/08/Biomedical-Sciences-Student-Handbook.pdf ) and understand that plagiarism, fabrication and falsification will not be tolerated. 
 
-All data that results from experiments performed in the lab must be reproducible and is an expectation of all projects. In order to ensure all experiments are reproducible, everyone must accurately document all of their steps in their physical lab notebook and in R Space.
+All data that results from experiments performed in the lab must be reproducible and is an expectation of all projects. In order to ensure all experiments are reproducible, everyone must accurately document all of their steps in their physical lab notebook and in R Space. Some lab members, such as Research assistants. will also be expected to know how to work with Github and other Open-Science platforms.
 
 All lab members must abide by the IRB protocols  associated with each experiment. If you are not on the IRB you cannot run experiments involving human subjects (including tissues, raw data, etc.), look at or analyze the data, or be in any way involved with projects in which human  (pg9). Completion of “Working Safely with HIV and Other Bloodborne Pathogens” and “Protecting Human Research Participants” training provided by NIH is required by all members of the RIPLRT.
