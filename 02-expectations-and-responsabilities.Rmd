@@ -20,6 +20,6 @@ It is expected that every member
 
 - Maintain a passion for science that carries you forward. Science is very rewarding, but also very challenging. By keeping your scientific goals in mind, it is possible to stay motivated in the challenging times.
 - Be efficient but do not rush. Rushing leads to mistakes and issues further down the line. It is important to always know exactly what you are doing before you do it. Plan out experiments ahead of time and, like you have learned in the BCA assay (which everyone in RIPLRT has to go through), always be prepared.
-- Mistakes may happen and can be corrected, but only if you own up to them. Never be hide a mistake as that will lead to future problems down the line. 
+- Mistakes may happen and can be corrected, but only if you own up to them. Never hide a mistake as that will lead to future problems down the line. 
 - Never be too proud to ask for help. We are not competing with each other, we are a team and will help each other whenever possible. Pride has no place in the research field. 
 - Work honestly. Never plagiarize work, tamper with data, or omit anything. A “bad” result is still a result: negative results also have the potential to be published. This seems an appropriate time to mention that most of these expectations stem from the [Aly Lab Manual](https://github.com/alylab/labmanual)(1).  
