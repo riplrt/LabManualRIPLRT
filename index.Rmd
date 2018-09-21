@@ -13,10 +13,12 @@ description: "This book constitute the lab manual for the RIPL_Effect Research T
 # Welcome! {-}
 It looks like you recently joined the [RIPL (Respiratory and Immunology Project) Effect Research Lab](https://www.riplrt.com) at Larkin University College of Biomedical Sciences. That’s great! We’re really glad to have you here, and will do what we can to make your time in the lab amazing. We hope you’ll learn a lot about respiratory health and immunology (also population health), develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
  
-This lab manual was inspired by several others, and borrows heavily from them (e.g. the [Aly Lab Manual](https://github.com/alylab/labmanual))(1). It’s also a work in progress. If you have ideas about things to add, or what to clarify, talk to me (Dr. Felix Rivera-Mariani, the PI), or the lab manager.
+This lab manual was inspired by several others, and borrows heavily from them (e.g. the [Aly Lab Manual](https://github.com/alylab/labmanual))(1). It’s also a work in progress. If you have ideas about things to add, or what to clarify, talk to me (Dr. Felix Rivera-Mariani, the PI), or the research assistants.
  
 When you join the lab, you’re expected to read this manual and sign a form indicating that you
-have done so. This signing form is found in our team drive. 
+have done so. This signing form is found in our Team Drive of our Google^TM^ account. 
+
+**Welcome to the RIPLRT!**
 
 
 ```{r include=FALSE}
