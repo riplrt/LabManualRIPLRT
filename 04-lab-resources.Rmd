@@ -31,3 +31,6 @@ FigShare^TM^ (https://figshare.com/) and Zenodo^TM^ (https://zenodo.org/) are tw
 
 ## Open Science Framework
 Together with Github, FigShare, and Zenogo, we contribute to the Open-Science movement through the Open Science Framework (OSF) platform (https://osf.io/). When data or codes that we have developed and employed in our projects are finally curated (i.e. not needed any other editing), they will be uploaded to the OSF. As with GitHub, FigShare, and Zenodo, consult with Dr. Rivera-Mariani or the Research Assistants before submitting anything to OSF and making it public.
+
+## R and R Studio
+Our lab also employs reproducible approaches for analyzing data. For this purpose, our data analysis protocols use R and Rstudio as the platforms. Here we employ scripts that we often share through Github, RSpace, Open Science Framework, FigShare, and Zenodo. Learning to use R and Rstudio will be one of the skillsets you will develop with the RIPLRT. 
