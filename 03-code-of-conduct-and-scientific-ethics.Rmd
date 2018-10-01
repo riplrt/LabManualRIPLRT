@@ -21,7 +21,18 @@ The lab, and Larkin University, have a great appreciation for scientific achieve
 
 All data that results from experiments performed in the lab must be reproducible and is an expectation of all projects. In order to ensure all experiments are reproducible, everyone must accurately document all of their steps in their physical lab notebook and in RSpace. Some lab members, such as Research assistants. will also be expected to know how to work with Github and other Open-Science platforms.
 
-All lab members must abide by the IRB (Institutional Review Board) protocols associated with each project involving human subjects. If you have been assigned to work in a project involving human subjects, make sure Dr. Rivera-Mariani has added you to the corresponding approved IRB protocol, otherwise you cannot run experiments involving human subjects (including tissues, raw data, etc.), look at or analyze the data, or be in any way involved with projects in which human. In order for you to be included in an IRB protocol, you must complete the  “Working Safely with HIV and Other Bloodborne Pathogens” and “Protecting Human Research Participants” training provided by NIH is or CITI program is required by all members of the RIPLRT.
+All lab members must abide by the IRB (Institutional Review Board) protocols associated with each project involving human subjects. If you have been assigned to work in a project involving human subjects, make sure Dr. Rivera-Mariani has added you to the corresponding approved IRB protocol, otherwise you cannot run experiments involving human subjects (including tissues, raw data, etc.), look at or analyze the data, or be in any way involved with projects in which human. In order for you to be included in an IRB protocol, you must complete the following trainings:
+
+- [Working Safely with HIV and Other Bloodborne Pathogens](https://www.safetytraining.nih.gov/default.aspx?m=Please-Log-In#116) (offered by the National Institute of Health) 
+- CITI Program Training Modules in:
+
+  + Biomedical Research (Basic)
+  + Biomedical Responsible Condcut of Research
+  + Biomedical Data or Specimens (Basic)
+  + Conflicts of Interest
+  + Information Privacy for Researchers
+  
+Note: the training modules in the CITI program are free for the Larkin University community (thanks to the efforts of the founding library director Dr. Sharon Argov).
 
 ## Authorship
 The RIPLRT will strictly follow the guidelines established by the [International Committee of Medical Journal Editors](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) to award authorship, including order of authors within any RIPLRT publication. 
