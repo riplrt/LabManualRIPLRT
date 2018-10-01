@@ -25,7 +25,6 @@ All lab members must abide by the IRB (Institutional Review Board) protocols ass
 
 - [Working Safely with HIV and Other Bloodborne Pathogens](https://www.safetytraining.nih.gov/default.aspx?m=Please-Log-In#116) (offered by the National Institute of Health) 
 - [CITI Program Training](https://about.citiprogram.org/en/homepage/) Modules in:
-
   + Biomedical Research (Basic)
   + Biomedical Responsible Condcut of Research
   + Biomedical Data or Specimens (Basic)
