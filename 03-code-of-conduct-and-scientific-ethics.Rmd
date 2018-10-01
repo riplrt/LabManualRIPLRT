@@ -24,7 +24,7 @@ All data that results from experiments performed in the lab must be reproducible
 All lab members must abide by the IRB (Institutional Review Board) protocols associated with each project involving human subjects. If you have been assigned to work in a project involving human subjects, make sure Dr. Rivera-Mariani has added you to the corresponding approved IRB protocol, otherwise you cannot run experiments involving human subjects (including tissues, raw data, etc.), look at or analyze the data, or be in any way involved with projects in which human. In order for you to be included in an IRB protocol, you must complete the following trainings:
 
 - [Working Safely with HIV and Other Bloodborne Pathogens](https://www.safetytraining.nih.gov/default.aspx?m=Please-Log-In#116) (offered by the National Institute of Health) 
-- CITI Program Training Modules in:
+- [CITI Program Training](https://about.citiprogram.org/en/homepage/) Modules in:
 
   + Biomedical Research (Basic)
   + Biomedical Responsible Condcut of Research
