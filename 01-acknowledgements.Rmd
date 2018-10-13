@@ -4,7 +4,7 @@ Before we proceed informing about the contents in the lab manual, we would like 
 
 Members of the RIPLRT: Ariel Stateman, Hayat Srour, Josh Baguley, Shandra Baguley, and Dr. Félix E. Rivera-Mariani. 
 
-The [AlyLab](https://www.alylab.org/) for sharing the idea and benefits of having a lab manual in a recent publication in [Nature News and Comments](https://www.nature.com/articles/d41586-018-06167-w). 
+The [AlyLab](https://www.alylab.org/) for sharing the idea and benefits of having a lab manual [@alylab2018] in a recent publication in [Nature News and Comments](https://www.nature.com/articles/d41586-018-06167-w). 
 
 
 Now, let’s get back to the RIPLRT Lab Manual!
