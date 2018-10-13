@@ -28,4 +28,4 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 
-**Note**: The repository for this lab manual can be found here: https://github.com/riplrt/LabManualRIPLRT. Also, this manual was developed, and continuously updated (as needed), through the R @R-base computer language, and employs the Bookdown @R-bookdownand, knitr @R-knitr, amd R-markdown @R-rmarkdown packages. 
+**Note**: The repository for this lab manual can be found here: https://github.com/riplrt/LabManualRIPLRT. Also, this manual was developed, and continuously updated (as needed), through the R [@R-base] computer language, and employs the Bookdown [@R-bookdown], knitr [@R-knitr], amd R-markdown [@R-rmarkdown] packages. 
