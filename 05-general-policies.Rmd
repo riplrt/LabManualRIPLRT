@@ -1,10 +1,10 @@
 # General Policies
 
 ## Communication
-Weekly meetings: every Monday, the group have a video conference at 6PM (EST) via GoToMeeting. Topics and tasks are usually discussed prior and further elaboration takes place during this weekly call. 
+*Weekly meetings*: every Monday, the group have a video conference at 6PM (EST) via GoToMeeting. Topics and tasks are usually discussed prior and further elaboration takes place during this weekly call. 
 Slack^TM^: stay in tune with Slack. Research talk moves fast and does not take days off. Stay connected through slack and you should be fine.
 
-Documents: Unless stated otherwise, all documents we create or upload are made availabble to all RIPLRT members through our RIPLRT Drive in the G-suite. Please be sure to share everything to the RIPLRT Drive and asssign the document the corresponding name, in the correct format, even if it is the very first draft of a document and you are the sole author of the document. *This is one of our foundational policies -- to have an open group in order to be able to contribute to the Open Science movement*. 
+*Documents*: Unless stated otherwise, all documents we create or upload are made availabble to all RIPLRT members through our RIPLRT Drive in the G-suite. Please be sure to share everything to the RIPLRT Drive and asssign the document the corresponding name, in the correct format, even if it is the very first draft of a document and you are the sole author of the document. *This is one of our foundational policies -- to have an open group in order to be able to contribute to the Open Science movement*. 
 
 ## Hours
 Currently, we do not have a set schedule. Nevertheless, we employ the Homebase app to inform the Lab Manager and the PI our weekly availability to facilitate being assinged tasks and projects. *Don't forget to update your availability every week through the Homebase app (refer to section 3.5 of this lab manual)*.
