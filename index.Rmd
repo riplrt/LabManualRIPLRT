@@ -20,6 +20,7 @@ have done so. This signing form is found in our Team Drive of our Google^TM^ acc
 
 **Welcome to the RIPLRT!**
 
+*Note: the date listed above is the corresponds to the date the manual was updated. The date this manual was initially created was on September 20th, 2018.*
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
