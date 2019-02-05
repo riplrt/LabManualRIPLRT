@@ -2,7 +2,7 @@
 
 Before we proceed informing about the contents in the lab manual, we would like to acknowledge the following people who contributed heavily to the initial steps of the RIPLRT Lab Manual:
 
-Members of the RIPLRT: Ariel Stateman, Hayat Srour, Josh Baguley, Shandra Baguley, and Dr. Félix E. Rivera-Mariani. 
+Members of the RIPLRT: Ariel Stateman, Hayat Srour, Josh Baguley, Shandra Bellinger, and Dr. Félix E. Rivera-Mariani. 
 
 The [AlyLab](https://www.alylab.org/) for sharing the idea and benefits of having a lab manual [@alylab2018] in a recent publication in [Nature News and Comments](https://www.nature.com/articles/d41586-018-06167-w). 
 
