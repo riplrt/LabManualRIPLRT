@@ -2,8 +2,8 @@
 
 The core values of the RIPLRT are 
 
-- Inclusiveness (everyone’s voice count)
-- Multi-disciplinary focus (integrate different disciplines into our reach goals)
+- Inclusiveness (everyone’s voice counts)
+- Multi-disciplinary focus (integrate different disciplines into our research goals)
 - Diversity (value and respect differences in perspectives and opinions)
 - Integrity (follow strict institutional, scientific, and ethical guidelines)
 - Productivity (input our highest efforts to reach our goals)
@@ -21,16 +21,16 @@ It is expected that every member
 
 - Maintain a passion for science that carries you forward. Science is very rewarding, but also very challenging. By keeping your scientific goals in mind, it is possible to stay motivated in the challenging times.
 - Be efficient but do not rush. Rushing leads to mistakes and inconveniences further down the line. It is important to always know exactly what you are doing before you do it. Plan out experiments ahead of time and, like you have learned in the BCA assay (which everyone in RIPLRT has to go through), always be prepared.
-- Learn from mistakes because mistakes due happen -- they can be corrected, but only if you own up to them. Never hide a mistake as that will lead to future problems down the line. 
+- Learn from mistakes because mistakes do happen -- they can be corrected, but only if you own up to them. Never hide a mistake as that will lead to future problems down the line. 
 - Never be too proud to ask for help. We are not competing with each other, we are a team and will help each other whenever possible. Pride is good, but too much pride is unhealthy.
-- Maintain a respectful atmosphere with your lab members. Recall that one of our core values is diversity, and for this reason we must be able to recognize and work with the diverse environment we will encounter in and outside the lab as we carry out are scientific duties. 
-- Learn to employ your [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) with your lab members: this is an important skill set very often underestimate in society. Be thoughtful is your action(s) will hinder the emotions of the person you are about to interact with.  
+- Maintain a respectful atmosphere with your lab members. Recall that one of our core values is diversity, and for this reason we must be able to recognize and work with the diverse environment we will encounter in and outside the lab as we carry out our scientific duties. 
+- Learn to employ your [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) with your lab members: this is an important skill set very often underestimate in society. Be thoughtful about if your action(s) will hinder the emotions of the person you are about to interact with.  
 - Employ intelligence and respect when addressing conflicts within the RIPLRT. As with any relationship, conflicts may arise -- we have to deliver the same or higher level of intelligence and respect (a.k.a. diplomacy) as we do with science to resolve conflicts. 
-- Keep up with science as much as possible. [Twitter](https://lternet.edu/twitter-for-scientists/) is a good platform to do so; therefore, it is highly recommended to have a Twitter account. Also refer to Lab Fesources (chapter 3) to learn about PubCrawler. 
+- Keep up with science as much as possible. [Twitter](https://lternet.edu/twitter-for-scientists/) is a good platform to do so; therefore, it is highly recommended to have a Twitter account. Also refer to Lab Resources (chapter 3) to learn about PubCrawler. 
 - Learn and employ time management. Working everyday in RIPLRT is not necessary, and it is not the same as getting the work done. Just make sure to dedicate the time needed to get the work completed. 
 - Attend meetings as they are in hard date/time schedules, and be on time with regards to your duties in RIPLRT. Lab members will always be grateful when we respect their time: you want them to respect yours. 
-- Make sure before leaving going home after working in the lab, make sure our working area is clean and organized, and the equipments (except for the freezer, fridge, and computers) are turned off. 
-- Share the space. The RIPLRT research facilities are within a shared research lab. There are things that can be shared, and there are things that cannot. Make sure to recognize which ones falls in these two categories. 
+- Before leaving the lab, make sure our working spaces are clean and organized, and that lab equipments (except for the freezer, fridge, and computers) is turned off. 
+- Share the space. The RIPLRT research facilities are within a shared research lab. There are things that can be shared, and there are things that cannot. Make sure to recognize how items falls into these two categories. 
 - Work honestly. Never plagiarize work, tamper with data, or omit anything. A “bad” result is still a result: negative results also have the potential to be published. This seems an appropriate time to mention that most of these expectations stem from the [Aly Lab Manual](https://github.com/alylab/labmanual)(1).  
 
 ## Principle Investigator
