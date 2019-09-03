@@ -1,6 +1,6 @@
 --- 
-title: "Lab Manual for the RIPL_Effect Research Team (RIPLRT)"
-author: "Authors: The RIPL_Effect Research Team"
+title: "Lab Manual for the Respiratory and Immunology Project and Laboratory Research Team (RIPLRT)"
+author: "Authors: The RIPLRT"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -11,12 +11,11 @@ description: "This book constitute the lab manual for the RIPL_Effect Research T
 ---
 
 # Welcome! {-}
-It looks like you recently joined the [RIPL (Respiratory and Immunology Project) Effect Research Lab](https://www.riplrt.com) at Larkin University College of Biomedical Sciences. That’s great! We’re really glad to have you here, and will do what we can to make your time in the lab amazing. We hope you’ll learn a lot about respiratory health and immunology (also population health), develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
+Welcome to the RIPLRT [RIPL (Respiratory and Immunology Project and Laboratory Research Team](https://www.riplrt.com) at Larkin University College of Biomedical Sciences. If you are reading this lab manual because you recently joined the RIPLRT, welcome! If you are a current member of the RIPLRT, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to immerse you in different learning experiences, such as in respiratory health and immunology (also population health), develop new skillsets (coding, data analysis, writing, giving talks), expand your network, and do our best for you to enjoy your time at the RIPLRT.
  
 This lab manual was inspired by several others, and borrows heavily from them [@alylab2018]. It’s also a work in progress. If you have ideas about things to add, or what to clarify, talk to the PI (Dr. Felix Rivera-Mariani, the PI), the lab manager, or any of the current RIPLRT members.
  
-When you join the lab, you’re expected to read this manual and sign a form indicating that you
-have done so. This signing form is found in our Team Drive of our Google^TM^ account. 
+When you join the lab, you're expected to read this manual and sign a form (within your first 7 days in the RIPLRT) indicating that you have done so. Signing this form confirms that you will perform your duties in the RIPLRT according to this manual. This signing form can be found in the Team Drive within our Google^TM^ account - if you are not able to access the form, make sure to contact the Lab Manager to facilitate this form to you. 
 
 **Welcome to the RIPLRT!**
 
