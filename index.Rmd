@@ -1,7 +1,7 @@
 --- 
 title: "Lab Manual for the Respiratory and Immunology Project and Laboratory Research Team (RIPLRT)"
 author: "Authors: The RIPLRT"
-date: "`r Sys.Date()`"
+date: "Updated on `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -11,7 +11,7 @@ description: "This book constitute the lab manual for the RIPL_Effect Research T
 ---
 
 # Welcome! {-}
-Welcome to the RIPLRT [RIPL (Respiratory and Immunology Project and Laboratory Research Team](https://www.riplrt.com) at Larkin University College of Biomedical Sciences. If you are reading this lab manual because you recently joined the RIPLRT, welcome! If you are a current member of the RIPLRT, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to immerse you in different learning experiences, such as in respiratory health and immunology (also population health), develop new skillsets (coding, data analysis, writing, giving talks), expand your network, and do our best for you to enjoy your time at the RIPLRT.
+Welcome to the RIPLRT [RIPLRT (Respiratory and Immunology Project and Laboratory Research Team)](https://www.riplrt.com) at Larkin University College of Biomedical Sciences. If you are reading this lab manual because you recently joined the RIPLRT, welcome! If you are a current member of the RIPLRT, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to immerse you in different learning experiences, such as in respiratory health and immunology (also population health), develop new skillsets (coding, data analysis, writing, giving talks), expand your network, and do our best for you to enjoy your time at the RIPLRT.
  
 This lab manual was inspired by several others, and borrows heavily from them [@alylab2018]. It’s also a work in progress. If you have ideas about things to add, or what to clarify, talk to the PI (Dr. Felix Rivera-Mariani, the PI), the lab manager, or any of the current RIPLRT members.
  
