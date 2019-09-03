@@ -1,10 +1,10 @@
 # Acknowledgements {-}
 
-Before we proceed informing about the contents in the lab manual, we would like to acknowledge the following people who contributed heavily to the initial steps of the RIPLRT Lab Manual:
+Before we proceed informing about the contents in the lab manual, we would like to acknowledge the following people who contributed to elaboration and maintenance of this RIPLRT Lab Manual:
 
-Members of the RIPLRT: Ariel Stateman, Hayat Srour, Josh Baguley, Shandra Bellinger, and Dr. Félix E. Rivera-Mariani. 
-
-The [AlyLab](https://www.alylab.org/) for sharing the idea and benefits of having a lab manual [@alylab2018] in a recent publication in [Nature News and Comments](https://www.nature.com/articles/d41586-018-06167-w). 
+- **Past Members of the RIPLRT**: Ariel Stateman, Josh Baguley, andShandra Bellinger, who contributed heavily to the initial steps of the RIPLRT Lab Manual.
+- **Current Members of the RIPLRT**: Hayat Srour, Ruslan Fomenko, Summer Pellechio, Sukeina Nasser, and Dr. Félix E. Rivera-Mariani, who have contributed to the initial steps (such as Hayat, Ruslan, and Dr. Rivera-Mariani) and continue to update the RIPLRT Lab Manual.
+- The [AlyLab](https://www.alylab.org/) for sharing, in a recent publication [@alylab2018] in [Nature News and Comments](https://www.nature.com/articles/d41586-018-06167-w), the idea and benefits of having a lab manual. 
 
 
 Now, let’s get back to the RIPLRT Lab Manual!
