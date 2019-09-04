@@ -1,8 +1,7 @@
 # General Policies
 
 ## Communication
-*Weekly meetings*: every Monday, the group have a video conference at 6PM (EST) via GoToMeeting. Topics and tasks are usually discussed prior and further elaboration takes place during this weekly call. 
-Slack^TM^: stay in tune with Slack. Research talk moves fast and does not take days off. Stay connected through slack and you should be fine.
+*Bi-Weekly meetings*: depending on the lab members availability, Bi-Weekly meetings will be organized to discuss topics and tasks, follow up on ongoing and discuss future projects, and other aspects of our scientiific endeavors in the RIPLRT. The day/time-slot will depend on the availability of the RIPLRT members as documented in the WhenIWork platform.
 
 ## Documents
 Unless stated otherwise, all documents must be created within RIPLRT Drive. In this way, the document is made available to each team member. Of course, there will be special circumstances (which will be notified accordingly) in which you may create a document in your "My Drive" or upload from another plateform (e.g. Microsoft Office, statistical software files, etc.). Even if it is the very first draft of a document and you are the sole author of the document, create the file directly on the RIPLRT Drive. *This is one of our foundational policies -- to have an open group in order to be able to contribute to the Open Science movement*. 
@@ -11,9 +10,9 @@ Unless stated otherwise, all documents must be created within RIPLRT Drive. In t
 As RIPLRT implements computational approaches, which always have specific file-naming protocols, we would like to implement a naming protocol to all of our files. Within each folder in our RIPLRT Drive, there will be a file (created in Google Doc) named **"How_To_Name_A_File_In_This_Folder"**. Make sure to always revise this file if you forgot the file-naming protocol within a specific folder. 
 
 ## Hours
-Currently, we do not have a set schedule. Nevertheless, we employ the Homebase app to inform the Lab Manager and the PI our weekly availability to facilitate being assinged tasks and projects. *Don't forget to update your availability every week through the Homebase app (refer to section 3.5 of this lab manual)*.
+Currently, we are using When I Work (WIWI). Please update your availability through the site at least two weeks (preferably three) ahead. This allows us to have schedules posted 1 week in advance.
 
-If you plant to be in the lab outside the assigned schedule as per the Homebase app, please let Dr. Rivera-Mariani know.
+If you plan to be in the lab outside the assigned schedule as per the WhenIWork app, please let Dr. Rivera-Mariani know.
 
 ## Deadlines 
 Every deadline is a hard deadline (unless otherwise stated by Dr. Rivera-Mariani or within the RIPLRT). With that being said, be sure to stay up to date and punctual with meetings and submissions. Remember, you want your time to be appreciated: RIPLRT lab members also deserve their time to be appreciated as well.
@@ -23,4 +22,6 @@ Communication skills, including in written and verbal forms, are key to move sci
 
 ## Conferences/ Travel
 Our group advocates travel for conferences to present current and ongoing research projects, to network with colleagues from other institutions and countries, and as another way to be updated with science. Different conferences offer grants for travel and each person interested in attending the conference is responsible for funding their costs. Some funds may be available upon request. It is highly recommended to each RIPLRT member to be on the look for scholarhsip, travel awards, or other funding opportunities to attend to conferences.  
+
+For the reasons stated above, every RIPLRT member is expected to present ongoign research in at least one national conference per year. In the case of mentees and interns, the work produced during their stay at the RIPLRT will be expected to be presented at a regional or (preferably) national conference that can benefit their academic goals.
 
