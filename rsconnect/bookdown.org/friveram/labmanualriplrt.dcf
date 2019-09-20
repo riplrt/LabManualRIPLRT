@@ -5,8 +5,8 @@ account: friveram
 server: bookdown.org
 hostUrl: https://bookdown.org/__api__
 appId: 1813
-bundleId: 12473
+bundleId: 12489
 url: https://bookdown.org/friveram/labmanualriplrt/
-when: 1568954284.3312
+when: 1569013340.98333
 asMultiple: FALSE
 asStatic: FALSE

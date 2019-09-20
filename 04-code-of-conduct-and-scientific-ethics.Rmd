@@ -1,27 +1,27 @@
 # Code of Conduct and Scientific Ethics 
 
 ## Essential Policies
-Larkin University’s core values include but aren’t limited to; an inclusive learning community, acceptance and embracement of diverse cultures and perspectives, civility, integrity, and trustworthiness. All lab members are expected to abide by and practice these values, in and out of the RIPLRT lab.
+Larkin University’s core values include, but aren’t limited, to 1) an inclusive learning community, 2) acceptance and embracement of diverse cultures and perspectives, 3) civility, 4) integrity, and 5) trustworthiness. All lab members are expected to abide by and practice these values, in and out of the RIPLRT.
 
-The RIPLRT lab is committed to ensuring a safe, friendly, and accepting environment for everybody. We will not tolerate any verbal or physical harassment or discrimination. 
+The RIPLRT is committed to ensuring a safe, friendly, and accepting environment. We will not tolerate any verbal or physical harassment or discrimination. 
 
-*Safety is always first*: all safety guidelines as they pertain to Larkin University and those listed in this lab manual will be strictly implemented by all lab members. 
+*Safety is always first*: all safety guidelines as they pertain to Larkin University, and those listed in this lab manual, will be strictly implemented by all lab members. 
 
 ## Dress Code
-Avoid at all cost going to lab in shorts, sleeve-less shirts, with opened shoes, and without the lab coat. If you have long hair, make sure to put up your hair in the lab. Safety is always first. Incorrect dress code will lead to be being asked to leave the lab and return only when proper dress code is implemented.
+Avoid at all cost going to lab in shorts, sleeve-less shirts, with opened shoes, and without the lab coat. If you have long hair, make sure to put up your hair while you are in the lab. Incorrect dress code will lead to be being asked to leave the lab and return only when proper dress code is implemented.
 
 ## Allergies or any Health Issue
-If you are allergic to something...anything, please make sure to let Dr. Rivera-Mariani know. If you are experiencing any health situation, also inform Dr. Rivera-Mariani about it. Your health is first!
+If you are allergic to something, please make sure to inform this to Dr. Rivera-Mariani or the Lab Manager. If you are experiencing any health situation, also inform Dr. Rivera-Mariani about it. Your health is first!
 
 ## Taking Photos and Videos
-The privacy of all lab members must be respected at all times. Taking photos or videos of other lab members is only allowed once consent has been obtained from the other party prior to the picture or video being taken. Before imagery is posted on Social Media or any other forum, it must be approved by the PI, Dr. Felix Rivera-Mariani. At no point should photos or videos be taken of the human volunteers contributing to our projects: that would be a violation of strict guidelines of the Institutional Review Board (see below under Scientific Integrity). Note that serious consequences could result for not following this privacy guidelines.
+The privacy of all lab members must be respected at all times. Taking photos or videos of other lab members is only allowed once consent has been obtained from the other party prior to the picture or video being taken. Before imagery is posted on Social Media or any other forum, it must be approved by the PI, Dr. Felix Rivera-Mariani. At no point should photos or videos be taken of human volunteers contributing to our projects: that would be a violation of strict guidelines of the Institutional Review Board (see below section 3.5 - Scientific Integrity). Note that serious consequences could result for not following this privacy guidelines.
 
 ## Scientific Integrity
 The lab, and Larkin University, have a great appreciation for scientific achievements and support a passion for innovation and curiosity; however, there is no spaces within the RIPLRT for scientific research misconduct. All members must read the Academic Dishonesty Policy in the Student Handbook (http://ularkin.org/wp-content/uploads/2018/09/Student-Handbook-2018-2019-F.pdf) and understand that plagiarism, fabrication and falsification will not be tolerated. 
 
-All data that results from experiments performed in the lab must be reproducible and is an expectation of all projects. In order to ensure all experiments are reproducible, everyone must accurately document all of their steps in their instance of ELabJournal (for research assistants) or RSpace (for interns and students). Some lab members, such as Research assistants, will also be expected to know how to work with Github and other Open-Science platforms.
+All data that results from experiments performed in the lab must be reproducible and is an expectation of all projects. In order to ensure all experiments are reproducible, everyone must accurately document all of their steps in their instance of ELabJournal (for research assistants) or RSpace (for interns and students). Some lab members, such as Research Assistants, will also be expected to know how to work with Github and other Open-Science platforms.
 
-All lab members must abide by the IRB (Institutional Review Board) protocols associated with each project involving human subjects. If you have been assigned to work in a project involving human subjects, make sure Dr. Rivera-Mariani has added you to the corresponding approved IRB protocol, otherwise you cannot run experiments involving human subjects (including tissues, raw data, etc.), look at or analyze the data, or be in any way involved with projects in which human. In order for you to be included in an IRB protocol, you must complete the following trainings:
+All lab members must abide by the Institutional Review Board (IRB) protocols associated with each project involving human subjects. If you have been assigned to work in a project involving human subjects, make sure Dr. Rivera-Mariani has added you to the corresponding approved IRB protocol, otherwise you cannot run experiments involving human subjects (including tissues, raw data, etc.), have access to data, or be in any way involved with projects in which human are involved. In order for you to be included in an IRB protocol, you must complete the following trainings:
 
 - [Working Safely with HIV and Other Bloodborne Pathogens](https://www.safetytraining.nih.gov/default.aspx?m=Please-Log-In#116) (offered by the National Institute of Health) 
 - [CITI Program Training](https://about.citiprogram.org/en/homepage/) Modules in:
@@ -31,7 +31,7 @@ All lab members must abide by the IRB (Institutional Review Board) protocols ass
   + Conflicts of Interest
   + Information Privacy for Researchers
   
-Note: the training modules in the CITI program are free for the Larkin University community (thanks to the efforts of the founding library director Dr. Sharon Argov).
+Note: the training modules in the CITI program are free for the Larkin University community (thanks to the efforts of the founding library director [Dr. Sharon Argov](https://ularkin.org/sharon-argov-edd-mls-ahip-research-profile/)).
 
 ## Authorship
 The RIPLRT will strictly follow the guidelines established by the [International Committee of Medical Journal Editors](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) to award authorship, including order of authors within any RIPLRT publication. 

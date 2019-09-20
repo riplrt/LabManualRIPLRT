@@ -5,7 +5,7 @@ Before we proceed further with the contents in the lab manual, we would like to 
 - **Past Members of the RIPLRT**: Ariel Stateman and Shandra Bellinger, who contributed heavily to the initial steps of the RIPLRT Lab Manual.
 - **Current Members of the RIPLRT**: Hayat Srour, Ruslan Fomenko, Summer Pellechio, Sukeina Nasser, Josh Baguley, and Dr. Félix E. Rivera-Mariani, who have contributed to the initial steps (such as Hayat, Ruslan, Josh, and Dr. Rivera-Mariani) and continue to update the RIPLRT Lab Manual.
 - The [AlyLab](https://www.alylab.org/) for sharing, in a recent publication [@alylab2018] in [Nature News and Comments](https://www.nature.com/articles/d41586-018-06167-w), the idea and benefits of having a lab manual. 
-- My writing group of the Unversity of Arizona PRIDE-AIRE 2019, Drs. [Maria Coutinho](https://vivo.brown.edu/display/mcoutinh) and [Mariam BA](https://www.researchgate.net/profile/Mariam_Ba), and our writing mentor [Dr. Karen Barto](https://cesl.arizona.edu/people/barto-karen), for contributing in the revision of this lab manual. 
+- My writing group within the Unversity of Arizona PRIDE-AIRE 2019 program, Drs. [Maria Coutinho](https://vivo.brown.edu/display/mcoutinh) and [Mariam BA](https://www.researchgate.net/profile/Mariam_Ba), and our writing mentor [Dr. Karen Barto](https://cesl.arizona.edu/people/barto-karen), for their contribution in revising sections of this lab manual.  
 
 
 Now, let’s get back to the lab manual!

@@ -1,53 +1,53 @@
 # Expectations and Responsibilities 
 
 ## General Expectations and Responsibilities 
-It is expected that each member of the RIPLRT,  
+It is expected that each member of the RIPLRT... 
 
-- **Maintains a passion for science and projects for which he/she is involved**. Science is very rewarding, but also very challenging -- keep your scientific goals in mind, and stay motivated.
-- **Be efficient but do not rush**. Rushing leads to mistakes and inconveniences further down the line (e.g. having to repeat experiments, which drains lab resources). It is important to always know exactly what you are doing before you do it. Plan out and familiarize with experiments, as well as projects. Being prepared ahead of time also helps in identifying necessary troubleshooting.
-- **Learns from mistakes because mistakes do happen**. Keep in mind that mistakes can be corrected **only** if you own up to them. Never hide from a mistake as that will lead to future problems down the line, and may jeopardize your stay in the RIPLRT.
-- **Never be too proud to ask for help**. We are a team and will help each other whenever possible. *Pride is good, but too much pride is unhealthy*.
-- **Maintains a respectful atmosphere with lab-mates**. Diversity is one of our core values; for this reason, we must recognize and work with the diverse environment we will encounter in and outside the lab. 
-- **Learns to employ your [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) with your lab members**. Be thoughtful if your action(s), or emotions, will hinder the emotions of the person you are about to interact with. 
-- **Employs intelligence and respect when addressing conflicts within the RIPLRT**. As with any relationship, conflicts may arise -- we have to deliver the same or higher level of intelligence and respect (i.e be diplomatic) as we do with science to resolve conflicts. 
-- **Keeps up with science as much as possible**. Identify venues to keep informed about scientific innovations (i.e. scientific findings, publicatiions, reports, etc.) related to our Vision and Mission, and as those related to improving human health. 
-- **Employs time management**. Working everyday in RIPLRT is not necessary -- we just need to get the job done by dedicating the time needed to complete the assigned task(s). 
-- **Keep updated his/her availability**. It is important to keep updated your availability as this will help assign tasks by the PI or the Lab Manager. It is expected that each RIPLRT member or intern will list his/her availability at least 3 weeks in advance, and update the availability as needed. Refer to the platform WhenIWork in this Lab Manual.
-- **Attends meetings and meets deadlines**. Lab members will always be grateful when we respect their time: you want them to respect yours. 
-- **Does a quick check before leaving the lab**. Make sure our working spaces are clean and organized, and that lab equipments (except for the freezer, fridge, and computers) are turned off. Although the computer should not be turned off (unless otherwise stated by the PI or the Lab Manager), it should be on sleep mode. RIPLRT personnel assigned during a particular day in which this responsability is not followed upon, will be accountable and *result 50% waged reduction.*
-- **Know what can and cannot be shared**. The RIPLRT research facilities are within a shared research lab. There are things that can be shared, and there are things that cannot. Make sure to recognize which items falls into these two categories. Refer to the RIPLRT list of shareables and non-shareables items.
-- **Performs inventory control before and after experiments**. Every RIPLRT member is required to pre-calculate the specific amount of consumables and reagents before implementing the experiment. At the end of the experiment, the pre-calculated amounts must be validate and adjusted (if needed) based on what was actually consumed. The hard-copy of the lab notebook would be of great help with this regard (i.e. making annotating during the experiment). *Note that the consumed amounts must be reported in the corresponding Electronic Lab Notebook plateform: ELab for members, and RSpace for interns.* If from the pre-calculation there are not enough consumables or reagents for a given experiment, the experiment cannot be launched. This would need to be communicated immediately to either the PI or the Lab Manager. At the end of the experiment, the amounts in our inventory platform, Quartzy (see section 3.8) and eLabJournal (in the case of antibodies and proteins; se section 3.10), needs to be updated. *Note that audits are performed at random, and this is one of the areas included in the audits*. 
-- **Work honestly**. Never plagiarize work, tamper with data, or omit anything. A “bad” result is still a result: negative results also have the potential to be published. *Note that analyzing a publicly-available dataset is not plagiarism. In fact, re-analyzing publicly-available datasets is one of the outcomes of open-science movement, which seeks to address reproducibility in science.*
+- **will maintain a passion for science and projects for which he/she is involved**. Science is very rewarding, but also very challenging -- keep your scientific goals in mind, and stay motivated.
+- **will be efficient but not rushing**. Rushing leads to mistakes and inconveniences further down the line, such as having to repeat experiments and consuming valuable resources. Thus, it is important to know exactly what we are doing before we do it. Plan out and familiarize with experiments, as well as projects. Also, being prepared ahead of time helps in identifying necessary troubleshooting.
+- **will learn from mistakes because mistakes do happen**. Keep in mind that mistakes can be corrected **only** if we own up to them. Never hide from a mistake because it will lead to future problems, and may jeopardize our stay in the RIPLRT.
+- **will not be too proud to ask for help**. We are a team and will help each other whenever possible. *Pride is good, but too much pride is unhealthy*.
+- **will maintain a respectful atmosphere with lab-mates**. Diversity is one of our core values; for this reason, we must recognize and work with the diverse environment we will encounter in and outside the RIPLRT. 
+- **will employ [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) and diplomacy**. Be thoughtful if your action(s), or emotions, will hinder the emotions of the person you are about to interact within and outside the RIPLRT. Also, when addressing conflicts deliver the same or higher level of intelligence and respect (i.e being diplomatic) as we do with science.
+- **will peep up with science as much as possible**. Identify venues to keep informed about scientific innovations (i.e. scientific findings, publicatiions, reports, etc.) related to our Vision and Mission, as well as those related to improving human health. 
+- **will employ time management**. Working everyday in the RIPLRT is not necessary -- we just need to get the job done by dedicating the necessary time to complete the assigned tasks.
+- **will keep updated his/her availability**. It is important to keep updated our availability as this will help assign tasks by the PI (Dr. Riverea-Mariani) or the Lab Manager. It is expected that each RIPLRT member or intern will list his/her availability at least 3 weeks in advance, and update the availability as needed. Refer to the platform *WhenIWork*, which is found in section *4.13* this Lab Manual.
+- **will attend lab meeting and meet deadlines**. Lab members will be grateful when we respect their time: you want them to respect yours. 
+- **will do a quick check before leaving the lab**. Make sure our working spaces are clean and organized, and that lab equipments (except the freezer, fridge, and computers) are turned off. Although the computer should not be turned off (unless otherwise stated by the PI or the Lab Manager), it should be on sleep mode. RIPLRT personnel assigned during a particular day in which this expectation is not followed upon, will be accountable and *result 50% waged reduction during that day.*
+- **will know what can and cannot be shared**. The RIPLRT research facilities are within a shared research lab. There are things that can be shared, and there are things that cannot. Make sure to recognize which items falls into these two categories. Refer to the RIPLRT list of shareables and non-shareables items and contact the PI or the Lab Manager if any doubts.
+- **will perform inventory control before and after experiments**. Every RIPLRT member is required to pre-calculate the specific amount of consumables and reagents before implementing the experiment. At the end of the experiment, the pre-calculated amounts must be validated and adjusted (if needed) based on what was actually consumed. The hard-copy of the lab notebook would be of great help with this expectation
+- **will report the inventory control in the corresponding platform**. The consumed amounts must be reported in the corresponding Electronic Lab Notebook plateform: ELab for members, and RSpace for interns. Refer to chapter 2 to see into which category you are listed. If from the pre-calculation there are not enough consumables or reagents for a given experiment, the experiment cannot be launched. This would need to be communicated immediately to either the PI or the Lab Manager. At the end of the experiment, the amounts in our inventory platform, Quartzy (see section 4.8) and eLabJournal (in the case of antibodies and proteins; se section 3.1) needs to be updated. *Note that audits are performed at random, and this is one of the areas evaluated*. 
+- **will work honestly**. Never plagiarize work, tamper with data, or omit anything. A “bad” result is still a result; negative results also have the potential to be published. It is worth clarifying that analyzing a publicly-available dataset is not plagiarism. In fact, re-analyzing publicly-available datasets is one of the outcomes of the open-science movement, which seeks to address reproducibility in science.*
 
 **For waged RIPLRT members:**
-*Note that if there are no circumstances preventing you from completing a task, and the task is not completed, it  could result in the role be converted from Waged (W) to Non-Waged (NW). Also, RIPLRT members' role will start as NW for laboratory techniques and experiments that deliver results and in which precision and accuracy are measurable (e.g ELISA, Westernm blot, endotoxin assay, etc). If the precision/accuracy is above 95%, the RIPLRT member's role will convert from NW to W.* If the experiment needs to be repeated, the RIPLRT member will remain in NW status -- the W hours will correspond only to the instance in which the 95% or above precision/accuracy value.
+If there are no circumstances preventing a RIPLRT member from completing a task, and the task is not completed, it  could result in the role be converted from Waged (W) to Non-Waged (NW). Also, RIPLRT members' role will start as NW for laboratory techniques and experiments that deliver results and in which precision and accuracy are measurable (e.g ELISA, Westernm blot, endotoxin assay, etc). If the precision/accuracy is above 95%, the RIPLRT member's role will convert from NW to W. If the experiment needs to be repeated, the RIPLRT member will remain in NW status -- the W hours will correspond only to the instance in which the 95% or above precision/accuracy is accomplished.
 
-This seems an appropriate time to mention that most of these expectations stem from the [Aly Lab Manual](https://github.com/alylab/labmanual)(1).  
+Now that we have elaborated on general expectations and guidelines, this seems an appropriate time to mention that most of these expectations stem from the [Aly Lab Manual](https://github.com/alylab/labmanual)(1).  
 
 ## Principle Investigator
 All general expectations and responsibilities and 
 
 - Be the foundation and example for the lab members to follow
 - Be a mentor with many aspects within RIPLRT, including science, learning, personally, emotionally, professionally, with career goals, among others. 
-- Provide feedback in a timely manner, as much as possible, in all scientific aspects of RIPLRT
-- Facilitates as many scientific and learning opportunities as possible for lab members to benefit from 
+- As much as possible, provide feedback in a timely manner, in all scientific aspects of RIPLRT
+- Facilitates as many scientific and learning opportunities as possibel for lab members to benefit from 
 - Find and apply for funding, and identify collaborative opportunities 
-- Have our backs as long as we have implemented the guidelines and expectations listed in our Lab Manual. Also, be as impartial as possible in this manner. 
-- In order to back up us, the Principal Investigator will perform corresponding audits monthly (or as neede) for each platform employed by RIPLRT.
+- Have our backs as long as we have implemented the guidelines and expectations listed in this Lab Manual. Also, be as impartial as possible in this manner. 
+- In order to back up us, the Principal Investigator will perform corresponding monthly audits (or as neede) for each platform employed by the RIPLRT.
 - Chairs the lab meetings (unless otherwise stated)
 
 ## Lab Manager
 All general expectations and responsabilities and
 
-- Assist the Principal Investigator in the management of the research team
-- Assist the Principal investigator in overseeing tasks be completed and implementing changes to Wage-to-NonWage status (and vice-versa)
+- Assist the Principal Investigator in the management of the RIPLRT
+- Assist the Principal investigator in overseeing tasks to be completed and implementing Wage-to-Non-Wage status changes (and vice versa) 
 - Assist in the ordering of equipments, reagents, and lab consumables
 - Manage, develop, and implement strategies for inventory control
-- Assist in the preparation of agendas for the weekly meetings and extraordinary meeting
-- Serve as mentors for research assistants, graduate and undergraduate students, or other interns
+- Assist in the preparation of agendas for the bi-weekly and extraordinary meeting
+- Serve as mentor for research assistants, graduate and undergraduate students, or other interns
 - Elaborate questions that the group can use to develop new research ideas
 - Assist in any projects in which mentees may need help with, as well as with the Principal Investigator
-- Participate, as much as possible, in professional development opportunities including those identified by the Principal Investigator as well as those identified by yourself
+- Participate, as much as possible, in professional development opportunities including those identified by the Principal Investigator 
 - Be willing to improve written and verbal communication as it pertains to the scientific community
 - Perform other Lab duties as assigned by the PI
 
@@ -55,10 +55,10 @@ All general expectations and responsabilities and
 All general expectations and responsibilities and 
 
 - Serve as mentors for graduate and undergraduate students, or other interns
-- Train lesser experienced lab members, which may include students (graduate and undergraduate), interns, and even research assistants who recently joined the RIPLRT, on lab techniques and protocols, including guidelines and expectations of this lab manual
+- Train lesser experienced lab members, which may include students (graduate and undergraduate), interns, and even research assistants who recently joined the RIPLRT, on lab techniques and protocols, including guidelines and expectations of this lab manual. Refer to sectin 2.8 for further information about mentors. 
 - Elaborate questions that the group can use to develop new research ideas
 - Assist in any projects in which mentees and mentors may need help with, as well as with the Principal Investigator
-- Participate, as much as possible, in professional development opportunities including those identified by the Principal Investigator as well as those identified by yourself
+- Participate, as much as possible, in professional development opportunities including those identified by the Principal Investigator 
 - Be willing to improve written and verbal communication as it pertains to the scientific community
 - Perform other Lab duties as assigned by the PI or Lab Manager
 
@@ -76,26 +76,25 @@ All general expectations and responsabilidies, and
 All general expectations and responsibilities and 
 
 - Be mentees of research assistants 
-- Mentor lesser experiences lab members, which may include undergraduate students (including interns) and graduate students who recently joined the RIPLRT.
+- Mentor lesser experiences lab members, which may include undergraduate and graduate students who recently joined the RIPLRT. Refer to sectin 2.8 for further information about mentors. 
 - Learn new skills and procedures quickly
 - Elaborate questions that the group can use to develop new research ideas
 - Assist in any projects in which mentees and mentors may need help with, as well as with the Principal Investigator
-- Participate, as much as possible, of professional development opportunities including those identified by the Principal Investigator as well as those identified by yourself
+- Participate, as much as possible, in professional development opportunities including those identified by the Principal Investigator as well as those identified by yourself
 - Be willing to learn how to improve written and verbal communication in science
 
 ## Undergraduate interns
 All general expectations and responsibilities and 
 
-- Be mentees of research assistants and graduate students 
+- Be mentees of research assistants and graduate students. Refer to sectin 2.8 for further information about mentors and mentees. 
 - Learn new skills and procedures quickly
 - Assist in any projects in which mentors may need help with, as well as with the Principal Investigator
-- Participate, as much as possible, of professional development opportunities including those identified by the Principal Investigator as well as those identified by yourself
+- Participate, as much as possible, in professional development opportunities including those identified by the Principal Investigator
 - Be willing to learn how to improve written and verbal communication in science
 
-## Mentors
-As mentioned above under the research assistants and graduate students expectations, mentoring is an  integral component of the listed expectations. Establishing good mentor-mentee relationships is very important. It is highly encourage that mentors and mentees read the reference about mentoring before engaging in such relationships. Also, mentors will be expected to be the first line of ensuring that mentee abide by the guidelines and expectations in this lab manual. Thus, the initial accountability will fall on the mentors if mentees are not abiding by the expectations and guidelines in this lab manual.
+## Mentors and Mentees
+As mentioned above under the research assistants and graduate students expectations, mentoring is an  integral component of the listed expectations. Establishing good mentor-mentee relationships is very important. It is highly encourage that mentors and mentees read reference about mentoring before engaging in such relationships. Also, mentors will be expected to be the first in line of ensuring that mentee abide by the guidelines and expectations in this lab manual. Thus, the initial accountability will fall on the mentors if mentees are not abiding by the expectations and guidelines in this lab manual. 
 
 ## Other Expectations
-- **Every member must pass training in Human Subjects Research**. Everyone in the RIPLRT must pass, and maintain updated certifications (refer to the Scientific Integrity section of this Lab Manual) in performing research with human subjects. 
-- **Every lab member must be up-to-date with vaccinations, including against Hepatitis B**. Because human blood is one of the main human body fluids with which the RIPLRT performed research on, Hepatitis B vaccination is required.
-- **When planning experiment, inventory control must be implemented**. This means that the amount of reagents, and consumables expected to be used in an experiment must be pre-calculated and updated accordingly in our inventory platforms, such as Quartzy (see section 3.8) and eLabJournal (in the case of antibodies and proteins; se section 3.10). *Yes, we acknowledge we elaborated earlier on inventory control, but it is a topic that needs to be strictly address.*
+- **Every member must pass a training in Human Subjects Research**. Everyone in the RIPLRT must pass, and maintain, updated certifications performing research with human subjects. Refer to section 3.5 (Scientific Integirity) of this lab manual for further information about this certifications.
+- **Every lab member must be up-to-date with vaccinations, including against Hepatitis B**. Because human blood is one of the main human body fluids with which the RIPLRT performs research, Hepatitis B vaccination is required.
