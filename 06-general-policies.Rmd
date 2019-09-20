@@ -4,13 +4,13 @@
 *Bi-Weekly meetings*: depending on the lab members availability, Bi-Weekly meetings will be organized to discuss topics and tasks, follow up on ongoing and discuss future projects, and other aspects of our scientiific endeavors in the RIPLRT. The day/time-slot will depend on the availability of the RIPLRT members as documented in the WhenIWork platform.
 
 ## Documents
-Unless stated otherwise, all documents must be created within RIPLRT Drive. In this way, the document is made available to each team member. Of course, there will be special circumstances (which will be notified accordingly) in which you may create a document in your "My Drive" or upload from another plateform (e.g. Microsoft Office, statistical software files, etc.). Even if it is the very first draft of a document and you are the sole author of the document, create the file directly on the RIPLRT Drive. *This is one of our foundational policies -- to have an open group in order to be able to contribute to the Open Science movement*. 
+Unless stated otherwise, all documents must be created within RIPLRT Drive. In this way, the document is easier to make available to each team member. Of course, there will be special circumstances (which will be notified accordingly) in which you may create a document outside the our RIPLRT Drive. Even if it is the very first draft of a document and you are the sole author of the document, create the file directly on the RIPLRT Drive. *This is one of our foundational policies -- to have an open group in order to be able to contribute to the Open Science movement*. 
 
 ## Naming of Documents
-As RIPLRT implements computational approaches, which always have specific file-naming protocols, we would like to implement a naming protocol to all of our files. Within each folder in our RIPLRT Drive, there will be a file (created in Google Doc) named **"How_To_Name_A_File_In_This_Folder"**. Make sure to always revise this file if you forgot the file-naming protocol within a specific folder. 
+As RIPLRT implements computational approaches, which always have specific file-naming protocols, we would like to implement a naming protocol to all of our files. Within each folder in our RIPLRT Drive, there will be a file (created in Google Doc) named **"How_To_Name_A_File_In_This_Folder"**. Make sure to always revise this file if you forgot the file-naming protocol within a specific folder. If for any reasons the naming_file is not available, make sure to let the PI or the Lab Manager know about this inconvenience. 
 
 ## Hours
-Currently, we are using When I Work (WIWI). Please update your availability through the site at least two weeks (preferably three) ahead. This allows us to have schedules posted 1 week in advance.
+Currently, we are using When I Work (WIWI). Please update your availability through the site at least three weeks ahead. This allows us to have schedules posted 1 week in advance. Nevertheless, revise as needed.
 
 If you plan to be in the lab outside the assigned schedule as per the WhenIWork app, please let Dr. Rivera-Mariani know.
 
@@ -18,7 +18,7 @@ If you plan to be in the lab outside the assigned schedule as per the WhenIWork 
 Every deadline is a hard deadline (unless otherwise stated by Dr. Rivera-Mariani or within the RIPLRT). With that being said, be sure to stay up to date and punctual with meetings and submissions. Remember, you want your time to be appreciated: RIPLRT lab members also deserve their time to be appreciated as well.
 
 ## Presentations
-Communication skills, including in written and verbal forms, are key to move science forward. The RIPLRT carry outs a series of Journal Club, and it is expected that lab members participate in this Journal Clubs. If you have been assigned a Journal Club date, make sure to first consult with Dr. Rivera-Mariniani the article(s) that you plan to discuss. Also, practice, practice, practice as these Journal Clubs are often broadcasted live to the web.
+Communication skills, including in written and verbal forms, are key to move science forward. The RIPLRT carry outs a series of Journal Club, and it is expected that lab members participate in this Journal Clubs when these are scheduled. If you have been assigned a Journal Club date, make sure to first consult with Dr. Rivera-Mariniani the article(s) that you plan to discuss. Also, practice, practice, practice as these Journal Clubs are often broadcasted live on the web.
 
 ## Conferences/ Travel
 Our group advocates travel for conferences to present current and ongoing research projects, to network with colleagues from other institutions and countries, and as another way to be updated with science. Different conferences offer grants for travel and each person interested in attending the conference is responsible for funding their costs. Some funds may be available upon request. It is highly recommended to each RIPLRT member to be on the look for scholarhsip, travel awards, or other funding opportunities to attend to conferences.  
