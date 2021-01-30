@@ -7,15 +7,15 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This book constitute the lab manual for the RIPL_Effect Research Team (RIPLRT). The output format for this example is bookdown::gitbook."
+description: "This book constitute the lab manual for the Respiratory and Immunology Project abd Laboratory Research Team (RIPLRT). The output format for this example is bookdown::gitbook."
 ---
 
 # Welcome! {-}
-Welcome to the [Respiratory and Immunology Project and Laboratory (RIPLRT)](https://www.riplrt.com) at Larkin University College of Biomedical Sciences. If you are reading our lab manual because you recently joined the RIPLRT, welcome! If you are a current member of the RIPLRT, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to immerse you in different learning experiences, such as in immunology, respiratory, and population health. In addition, develop new skillsets (coding, data analysis, writing, giving talks), expand your network, and do our best for you to enjoy your time at the RIPLRT.
+Welcome to the [Respiratory and Immunology Project and Laboratory (RIPLRT)](https://www.riplrt.com) within College of Biomedical Sciences of Larkin University. If you are reading our lab manual because you recently joined the RIPLRT, welcome! If you are a current member of the RIPLRT, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to immerse you in different learning experiences, such as in immunology, respiratory, and population health. In addition, develop new skillsets (coding, data analysis, writing, giving talks), expand your network, and do our best for you to enjoy your time at the RIPLRT. We also thank you if you are reading this manual as a reference for future documents or initiative wihtin your lab or other academic research endeavors. 
  
 This lab manual was inspired by several others, and borrows heavily from them [@alylab2018]. It’s also a work in progress; therefore, updates are implemented as we move forward. If you have ideas about things to add, or what to clarify, feel free to talk to the PI (Dr. Felix Rivera-Mariani), the lab manager, or any of the current RIPLRT members.
  
-When you join the lab, you're expected to read this manual and sign a form within your first 7 days in the RIPLRT indicating that you have done so. Signing this form confirms that you will perform your duties and meet the expectations according to this manual. The form to sign can be found in the Team Drive within our Google^TM^ account. If you are not able to access the form, make sure to contact the Lab Manager. 
+RIPLRT members are expected to read this manual and sign a form within your first 7 days in the RIPLRT indicates that the RIPLRt member have done so. Signing this form confirms that RIPLRT member will perform his/her duties and meet the expectations according to this manual. Reach out to the the Principal Investigator and mentor the RIPLRT, Dr. Félix E. Rivera-Mariani, or the RIPLRT leaders to have a copy of this form. 
 
 **Welcome to the RIPLRT!**
 
@@ -30,4 +30,4 @@ knitr::write_bib(c(
 
 ---
 
-**Note**: The repository for this lab manual can be found here: https://github.com/riplrt/LabManualRIPLRT. Also, this manual was developed, and continuously updated (as needed), through the R [@R-base] computer language, and employs the Bookdown [@R-bookdown], knitr [@R-knitr], amd R-markdown [@R-rmarkdown] packages. 
+**Note**: The repository for this lab manual can be found here: https://github.com/riplrt/LabManualRIPLRT. Also, this manual was developed, and continuously updated (as needed), through the R [@R-base] computer language, and employs the Bookdown [@R-bookdown], knitr [@R-knitr], and R-markdown [@R-rmarkdown] packages. 

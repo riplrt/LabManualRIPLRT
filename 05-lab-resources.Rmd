@@ -2,56 +2,76 @@
 
 The RIPLRT employs a series of digital resources and platforms that help us protect the environment by being *paperless*. These efforts also promote the mission of the RIPLRT, and facilitates our productivity, reproducibility, and our contribution towards the [Open-Science movement](http://www.unesco.org/new/en/communication-and-information/portals-and-platforms/goap/open-science-movement/). 
 
+*Note*: make sure to refer to the "Note" after each description of the platforms. 
+
 ## ELabJournal
-The RIPLRT employs [ELabJournal](https://www.elabjournal.com/) as the primary platform to document and link projects, studies, and experiments -- basically our lab notebook. Also, ELabJournal is the platform the RIPLRT employs to perform sample inventory, such as identifying where each sample (and its replicate, if applicable) is located within the laboratory. ELabJournal will be the platform  for documenting experiments -- hard copy lab notebooks will be available to make notes during experiments, but the final documentation will be in ELabJournal. RIPLRT members (who are not interns) must go through a in-lab training, by the PI or Lab Manager, on how to properly use ELabJournal. Also, sample information will be managed only through ELabJournal. 
+The RIPLRT employs [ELabJournal](https://www.elabjournal.com/) as the primary platform to document and link projects, studies, and experiments -- basically our lab notebook. Also, ELabJournal is the platform the RIPLRT employs to perform sample inventory, such as identifying where each sample (and its replicate, if applicable) is located within the laboratory. ELabJournal will be the platform  for documenting experiments -- hard copy lab notebooks will be available to make notes during experiments, but the final documentation will be in ELabJournal. RIPLRT members (who are not interns, graduate or undergraduate students) must go through a in-lab training, by the PI or Lab Manager, on how to properly use ELabJournal. Also, sample information will be managed only through ELabJournal. 
 
 *Note*: ELabJournal will be used only by RIPLRT members that *are not* in the category of interns or students unless otherwise stated by Dr. Rivera-Mariani. For interns and students, refer to RSpace (section 4.10).
 
 ## FigShare and Zenodo:
-FigShare^TM^ (https://figshare.com/) and Zenodo^TM^ (https://zenodo.org/) are two of the platforms we employ to contribute to the Open Science movement. In these platforms, we share (if applicable) and extract datasets to contribute to the efforts of reproducible science. Make sure to create an account and ask Dr. Rivera-Mariani to invite you into the RIPLRT workspaces within these platforms. Before submitting anything to FigShare or Zenodo, make sure to consult with Dr. Rivera-Mariani or the Lab Manager. 
+FigShare^TM^ (https://figshare.com/) and Zenodo^TM^ (https://zenodo.org/) are two of the platforms we employ to contribute to the Open Science movement. In these platforms, we share (when applicable and possible) and extract datasets to contribute to the efforts of reproducible science. Make sure to create an account and ask Dr. Rivera-Mariani to invite you into the RIPLRT workspaces within these platforms. Before submitting anything to FigShare or Zenodo, make sure to consult with Dr. Rivera-Mariani or the Lab Manager. 
+
+*Note* The learning curve for open-science approaches could be a bit challenging; however, knowledge in open-science efforts could open many venues in our professional endeavor. 
 
 ## GitHub:
-GitHub is a way to share codes (also data) to people outside of our lab. Coding is used throughout our research projects, everyday analysis, and the website. Our github repository is https://www..github.com/riplrt. Github is one of our venues to contribute to the Open-Science movement (refer to our Wiki page: https://wiki.riplrt.com). Also, make sure to familiarize with Github and to ask Dr. Rivera-Mariani or the Lab Manager to provide you with a brief training of how to use Github. Before submitting anything to Github and making it public, make sure to consult with Dr. Rivera-Mariani or the Lab Manager. 
+GitHub is a way for inter- and intra-collaborations in computational efforts. Coding is used throughout our research projects, everyday analysis, and the website. Our github repository is https://www..github.com/riplrt. Github is one of our venues to contribute to the Open-Science movement (refer to our Wiki page: https://wiki.riplrt.com). Also, make sure to familiarize with Github and to ask Dr. Rivera-Mariani or the Lab Manager to provide you with a brief training of how to use Github. Before submitting anything to Github and making it public, make sure to consult with Dr. Rivera-Mariani or the Lab Manager. 
+
+*Note* The learning curve for computational approaches could be a bit challenging; however, knowledge in computational efforts could open many venues in our professional endeavor. 
 
 ## Google account:
-**Gmail**: We have a riplrt email domain: username@riplrt.com. All emails related to RIPLRT should be communicated through this email domain. Make sure to ask Dr. Rivera-Mariani to add you to our domain if you are a Research Assistant, otherwise make sure to have a gmail.com account. **Google drive**: there is a riplrt drive (https://drive.riplrt.com) that will contain all documents shared intra-lab, including collaborations. Similar to the email with the @riplt.com domain, only Research Assistants will have direct acces. If you are not in the Research Assistant category, make sure to ask Dr. Rivera-Mariani to send you invites for the correspondig folders in the drive. **Google calendar**: invites to events and meetings are sent through Google calendar.   
 
-## GoToMeeting: 
-This platform is used for video conferences. If a member is not available onsite, we are able to set up an meeting through GoToMeeting. Make sure to familiarize with this application.
+- **Gmail**: We have a riplrt email domain: username@riplrt.com. Among waged RIPLRT members, all emails related to RIPLRT should be communicated through this email domain. Make sure to ask Dr. Rivera-Mariani to add you to our domain if you are a waged-RIPLRT member, otherwise make sure to have a Gmail.com account. 
+
+*Note*: important to have a personal Gmail account and be familiar with the Gmail.
+
+- **Google drive**: there is a riplrt drive (https://drive.riplrt.com) that will contain all documents shared intra-lab, including collaborations. Similar to the email with the @riplt.com domain, only waged-RIPLRT members will have direct access. If you are not as waged-RIPLRT member, make sure to ask Dr. Rivera-Mariani to send you invites for the corresponding folders in the drive. **Google calendar**: invites to events and meetings are sent through Google calendar. 
+
+*Note*: important to be familiarized with the use of Google drives.
+
+## Zoom, Google Meets, Slack Vidoe Conferences: 
+Zoom will be our primary platform for carrying virtual meetings.  We could also employ Google Meet (because of our instance of @riplrt.com), or Slack video conferencing. Use of Google Meet or Slack video conference would depend on the circumstances or the need of the meeting. For example, Slack video conferencing is useful if we need to have a very brief meeting when we are on-site; Google Meet, if we need to store the meeting in our Google Drive. Make sure to familiarize with this application. **Note**: important to be familiarized with the use of Google drives.
+
+*Note*: important to be familiarized with the use of Zoom, Google Meets, and Slack platforms.
 
 ## Open Science Framework
 Together with Github, FigShare, and Zenogo, we contribute to the Open-Science movement through the Open Science Framework (OSF) platform (https://osf.io/). When data or codes that we have developed and employed in our projects are finally curated (i.e. not needed any other editing), we may consider uploading to the OSF. As with GitHub, FigShare, and Zenodo, consult with Dr. Rivera-Mariani or the Lab Manager before submitting anything to OSF and making it public.
 
-## PubCrawler: 
-Keeping up with science, including in topics related to the RIPLRT scientific mission, sometimes is challenging. We use PubCrawler (http://pubcrawler.gen.tcd.ie/) to help narrow the difficulties of being up-to-date with scientific findings and peer-reviewed articles. Make sure to create an account with PubCrawler and review the weekly hits PubCrawler will send you as they relate to topic of the RIPLRT’s research mission.  Make sure to familiarize with this  plateform.
+*Note*: The learning curve for open-science approaches could be a bit challenging; however, knowledge in open-science efforts could open many venues in our professional endeavor.
 
 ## Quartzy
-One of the aspects that aids in carrying out efficient and reproducible science is to have full control of our inventory. For this reason, we integrate into the RIPLRT the lab management platform Quartzy (https://www.quartzy.com). This platform helps organize and track locations and quantities of consumable, reagents, solutions, among other items. Quartzy also allows to order items directly from its platform. *Every member must become familiar with Quartzy, and implement it for inventory control for pre- and post-experiment inventory control.* Nevertheless, *only Research Assistants and the Lab Manager can send request to order consumables and reagents through Quartzy.*
+One of the aspects that aids in carrying out efficient and reproducible science is to have full control of our inventory. For this reason, we integrate into the RIPLRT the lab management platform Quartzy (https://www.quartzy.com). This platform helps organize and track locations and quantities of consumable, reagents, solutions, among other items. Quartzy also allows to order items directly from its platform. 
+
+*Note*: Every member must become familiar with Quartzy, and implement it for inventory control for pre- and post-experiment inventory control.*Nevertheless*, only designated RIPLRT members, Lab Manager and can send request to order consumables and reagents through Quartzy for the approval by the Principal Investigator (Dr. Rivera-Mariani). 
 
 ## R and R Studio
-Our lab also employs reproducible approaches for analyzing data. For this purpose, our data analysis protocols use [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) as the platforms. Here we employ scripts that we often share through Github, RSpace, Open Science Framework, FigShare, and Zenodo. Learning to use R and Rstudio will be one of the skillsets you will develop with the RIPLRT.
+Our lab also employs reproducible approaches for analyzing data. For this purpose, our data analysis protocols use [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) as the platforms. Here we employ scripts that we often share through Github, RSpace, Open Science Framework, FigShare, and Zenodo. 
+
+*Note*: The learning curve for R and Rstudio, and other computational approaches employed by the RIPLRT, are a bit challenging, learning computational skillsets will go a long way towards our professional career paths.
 
 ## Rspace
-Our lab's mentees (i.e. interns and students) use Rspace (https://community.researchspace.com/login) as an electronic lab records. Each mentee will have acess to a hard copy of the lab notebook to make notes during experiments; nevertheless, final documentation will be in RSpace. Make sure to become familiar and ask for training with the RSpace platform.
+Our lab's mentees (i.e. interns and students) and non-waged RIPLRT members use Rspace (https://community.researchspace.com/login) as an electronic lab records. Each non-waged RIPLRT member will have acess to a hard copy of the lab notebook to make notes during experiments; nevertheless, final documentation will be in RSpace. Make sure to become familiar and ask for training with the RSpace platform.
+
+*Note*: The learning curve for this electronic lab notebook may be a bit challenging at the beginning; nevertheless, once a RIPLRT member is able to master it he/she will notice how the documentation will get streamlined during our approaches within the RIPLRT.
 
 ## Slack
-Our principal venue of daily communication is through Slack^TM^. Our workspace is riplrt.slack.com. Within our Slack workspace,  we have seperate channels for specific ongoing aspects in the lab. We are able to share information, documents, and pictures through Slack^TM^. Make sure to ask Dr. Rivera-Mariani to add you into our Slack workspace, and to familiarize with this app. 
+Our principal venue of daily communication is through Slack^TM^. Our workspace is riplrt.slack.com. Within our Slack workspace,  we have separate channels for specific ongoing aspects in the lab. We are able to share information, documents, and pictures through Slack^TM^. Make sure to ask Dr. Rivera-Mariani to add you into our Slack workspace, and to familiarize with this app. 
 
-*Note*: we won't be able to make exceptions if, for example, a member of RIPLRT prefers other venues of communication. Slack will be our main venue of communication, unless otherwise stated in some exceptional cases.
+*Note*: We won't be able to make exceptions if, for example, a member of RIPLRT prefers other venues of communication. Slack will be our main venue of communication, unless otherwise stated in some exceptional cases.
 
 ## Website
 The RIPLRT has a motherboard known: the https://www.riplrt.com. Here you will find oodles of past, current, and future information regarding the group. You can also follow RIPLRT’s updates and blogs here. Similar to this lab  manual, it is also a work-in-progress. Each lab member must provide a profile photo, a short bio to be included in the lab members section, as well a video interview, where you will be introduced to our site visitors.
  (https://www.riplrt.com/members/).
 
 ## WhenIWork
-In order to keep track of the hours worked in the lab, we implement the [WhenIWork](https://login.wheniwork.com/) platform. WhenIWork, or WIWI as we often refer to it, allows Dr. Rivera-Mariani Rivera to create a schedule on the tasks, shifts, and time slots for RIPLRT members. The Lab Manager can also has the permission to assign tasks. We recommend using the smartphone app for WhenIWork, but RIPLRT members can sign it and out through the desktop computers located in the lab. If using the smartphone app, note that it will be link to geo-location; therefore, when RIPLRT members sign in or out outside the geo-location limits of our lab at Larkin University, the PI will be notified. 
+In order to keep track of the hours worked in the lab, we implement the [WhenIWork](https://login.wheniwork.com/) platform. WhenIWork, or WIWI as we often refer to it, allows Dr. Rivera-Mariani Rivera to create a schedule on the tasks, shifts, and time slots for RIPLRT members. The Lab Manager can also has the permission to assign tasks. We recommend using the smartphone app for WhenIWork, but RIPLRT members can sign in and out through the desktop computers located in the lab. If using the smartphone app, note that it will be linked to geo-location; therefore, when RIPLRT members sign in or out outside the geo-location limits of our lab at Larkin University, the Principal Investigator will be receive a notification. 
 
 To get started, be sure to let Dr. Rivera-Mariani know and he will send an invite where you will be directed to create an account and start tracking your time in lab. If you have any trouble accessing or correctly logging your time sheet please contact Dr. Rivera-Mariani.
 
-*Note*: it is expected that each member of the RIPLRT, including interns, post their availability at a minimum of three-weeks in advance. Tasks won't be able to be assigned until the whole week lists your availability/unavailability day/timeslots. 
+*Note*: it is expected that each member of the RIPLRT, including interns, post their availability at a minimum of two-weeks in advance. Tasks won't be able to be assigned until the whole week lists your availability/unavailability day/timeslots. 
 
 ## Wiki
-The RIPLRT lab has a wiki page (http://wiki.riplrt.com/), where we share the library of resources and information we employ in our daily endeavors in the RIPLRT. You will be amazed all the resources we integrate in our scientific-mentoring mission. Similar to this lab manual, our Wiki page is also a work-in-progress.
+The RIPLRT lab has a wiki page (http://wiki.riplrt.com/), where we share the library of resources and information we employ in our daily endeavors in the RIPLRT. We will be amazed all the resources we integrate in our scientific-mentoring mission. Similar to this lab manual, our Wiki page is also a work-in-progress.
 
 
 
