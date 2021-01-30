@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This book constitute the lab manual for the Respiratory and Immunology Project abd Laboratory Research Team (RIPLRT). The output format for this example is bookdown::gitbook."
+description: "This book constitute the lab manual for the Respiratory and Immunology Project and Laboratory Research Team (RIPLRT). The output format for this example is bookdown::gitbook."
 ---
 
 # Welcome! {-}
